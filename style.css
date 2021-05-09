@@ -73,7 +73,7 @@ header ul li a:hover {
 
 #jumpotron {
     background-color: #3c3c52;
-    background-image: url(./image/jumpotron.jpg);
+    background-image: url('./image/jumpotron.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
