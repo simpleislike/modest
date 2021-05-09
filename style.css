@@ -174,19 +174,19 @@ header ul li a:hover {
     background-repeat: no-repeat;
 }
 #about > div > ul > li:nth-child(1) a {
-    background-image: url(./image/social/facebook.png);
+    background-image: url('./image/social/facebook.png');
 }
 #about > div > ul > li:nth-child(2) a {
-    background-image: url(./image/social/twitter.png);
+    background-image: url('./image/social/twitter.png');
 }
 #about > div > ul > li:nth-child(3) a {
-    background-image: url(./image/social/google.png);
+    background-image: url('./image/social/google.png');
 }
 #about > div > ul > li:nth-child(4) a {
-    background-image: url(./image/social/dribble.png);
+    background-image: url('./image/social/dribble.png');
 }
 #about > div > ul > li:nth-child(5) a {
-    background-image: url(./image/social/be.png);
+    background-image: url('./image/social/be.png');
 }
 #about > div > ul > li a:hover {
     background-color: #d0d5d9;
@@ -314,13 +314,13 @@ header ul li a:hover {
     background-color: #4e5a62;
 }
 .social-links ul li:nth-child(1) a {
-    background-image: url(./image//social/twitter.png);
+    background-image: url('./image/social/twitter.png');
 }
 .social-links ul li:nth-child(2) a {
-    background-image: url(./image//social/facebook.png);
+    background-image: url('./image/social/facebook.png');
 }
 .social-links ul li:nth-child(3) a {
-    background-image: url(./image//social/linked.png);
+    background-image: url('./image/social/linked.png');
 }
 
 
@@ -367,7 +367,7 @@ header ul li a:hover {
     width: 20px;
     height: 20px;
     margin: 92px auto 0px auto;
-    background-image: url(./image/plus.png);
+    background-image: url('./image/plus.png');
     background-repeat: no-repeat;
     background-position: center center;
     text-indent: -100000px; 
@@ -421,16 +421,16 @@ header ul li a:hover {
     padding-top: 83px;
 }
 #services > div:nth-child(4n + 1) {
-    background-image: url(./image/do/cogs.png);
+    background-image: url('./image/do/cogs.png');
 }
 #services > div:nth-child(4n + 2) {
-    background-image: url(./image/do/pencil.png);
+    background-image: url('./image/do/pencil.png');
 }
 #services > div:nth-child(4n + 3) {
-    background-image: url(./image/do/mobile.png);
+    background-image: url('./image/do/mobile.png');
 }
 #services > div:nth-child(4n + 4) {
-    background-image: url(./image/do/clock.png);
+    background-image: url('./image/do/clock.png');
 }
 #services div p {
     text-align: center;
